@@ -1,0 +1,9 @@
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\bin\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.deps.json
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\bin\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.dll
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\bin\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.pdb
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.csprojAssemblyReference.cache
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.AssemblyInfoInputs.cache
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.AssemblyInfo.cs
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.csproj.CoreCompileInputs.cache
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.dll
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.pdb

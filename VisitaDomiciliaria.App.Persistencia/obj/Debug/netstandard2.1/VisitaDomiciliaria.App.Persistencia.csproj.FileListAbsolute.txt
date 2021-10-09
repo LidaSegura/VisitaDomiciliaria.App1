@@ -1,0 +1,12 @@
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\bin\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.deps.json
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\bin\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.dll
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\bin\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.pdb
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\bin\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.dll
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\bin\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.pdb
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.csprojAssemblyReference.cache
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.AssemblyInfoInputs.cache
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.AssemblyInfo.cs
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.csproj.CopyComplete
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.dll
+C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.pdb
