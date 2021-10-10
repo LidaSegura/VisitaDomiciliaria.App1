@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\VisitaDomiciliaria.App.Consola.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\VisitaDomiciliaria.App.Consola.csproj": {}
   },
   "projects": {
-    "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\VisitaDomiciliaria.App.Consola.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\VisitaDomiciliaria.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\VisitaDomiciliaria.App.Consola.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\VisitaDomiciliaria.App.Consola.csproj",
         "projectName": "VisitaDomiciliaria.App.Consola",
-        "projectPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\VisitaDomiciliaria.App.Consola.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\VisitaDomiciliaria.App.Consola.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj": {
-                "projectPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj"
+              "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj"
               },
-              "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj": {
-                "projectPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj"
+              "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj"
               }
             }
           }
@@ -65,21 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj",
         "projectName": "VisitaDomiciliaria.App.Dominio",
-        "projectPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -137,21 +137,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj",
         "projectName": "VisitaDomiciliaria.App.Persistencia",
-        "projectPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\VisitaDomiciliaria.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -162,8 +162,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj": {
-                "projectPath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj"
+              "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj"
               }
             }
           }
@@ -213,7 +213,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

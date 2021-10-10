@@ -6,9 +6,25 @@ namespace VisitaDomiciliaria.App.Consola
 {
     class Program
     {
+        private static IRepositorioPropietario _repoPropietario = new  RepositorioPropietario(new Persistencia.AppContext());
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            AddPropietario();
+        }
+
+        private static void AddPropietario()
+        {
+            var propietario = new Propietario()
+            {
+                idPropietario  = "123",
+                Nombres = "HOMERO J",
+                Apellidos = "SIMPSON",
+                Telefono = "5555" ,
+                Direccion = "Avenida Siempre Viva 123",
+                Correo = "homero@simpson.co"
+            };
+            _repoPropietario.AddPropietario(propietario);
         }
     }
 }

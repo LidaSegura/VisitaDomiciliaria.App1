@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
-using System.VisitaDomiciliaria.App.Dominio;
+using VisitaDomiciliaria.App.Dominio;
 
 namespace VisitaDomiciliaria.App.Persistencia
 {
@@ -25,7 +25,7 @@ namespace VisitaDomiciliaria.App.Persistencia
         Propietario IRepositorioPropietario.UpdatePropietario(Propietario propietario)
         {
             var propietarioEncontrado = _appContext.Propietarios.FirstOrDefault(c=> c.Id == propietario.Id);
-            if (propietarioEncontrado =! null)
+            if (propietarioEncontrado != null)
                 {
                     propietarioEncontrado.idPropietario=propietario.idPropietario;
                     propietarioEncontrado.Nombres=propietario.Nombres;
@@ -48,9 +48,9 @@ namespace VisitaDomiciliaria.App.Persistencia
         
         Propietario IRepositorioPropietario.GetPropietaio(int idPersona)
         {
-            return _appContext.Propietarios.FirstOrDefault(c => c.Id == idPersona)
+            return _appContext.Propietarios.FirstOrDefault(c => c.Id == idPersona);
         }
-        IEnumerable<Propietario> IRepositorioPropietarios.GetAllPropietarios()
+        IEnumerable<Propietario> IRepositorioPropietario.GetAllPropietarios()
         {
             return _appContext.Propietarios;
         }
