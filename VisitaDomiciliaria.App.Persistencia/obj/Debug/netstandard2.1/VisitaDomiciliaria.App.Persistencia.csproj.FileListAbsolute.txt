@@ -10,3 +10,9 @@ C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\
 C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.csproj.CopyComplete
 C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.dll
 C:\VetPets\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.pdb
+C:\Users\Usuario\Documents\GitHub\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.dll
+C:\Users\Usuario\Documents\GitHub\VisitaDomiciliaria.App\VisitaDomiciliaria.App.Persistencia\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Persistencia.pdb
