@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
-using System.VisitaDomiciliaria.App.Dominio;
+using VisitaDomiciliaria.App.Dominio;
 
 namespace VisitaDomiciliaria.App.Persistencia
 {
@@ -24,25 +24,33 @@ namespace VisitaDomiciliaria.App.Persistencia
 
         Propietario IRepositorioPropietario.UpdatePropietario(Propietario propietario)
         {
+            var propietarioEncontrado = _appContext.Propietarios.FirstOrDefault(c=> c.Id == propietario.Id);
+            if (propietarioEncontrado != null)
+                {
+                    propietarioEncontrado.idPropietario=propietario.idPropietario;
+                    propietarioEncontrado.Nombres=propietario.Nombres;
+                    propietarioEncontrado.Apellidos=propietario.Apellidos;
+                    propietarioEncontrado.Telefono=propietario.Telefono;
 
+                    _appContext.SaveChanges();
+                }
+            return propietarioEncontrado;
         }
-        void IRepositorioPropietario.DeletePropietario(int idPropietario)
+
+        void IRepositorioPropietario.DeletePropietario(int idPersona)
         {
-            var propietarioEncontrado = _appContext.Propietarios.FirtOrDefault(c => c.Id == idPropietario);
-            if (clienteEncontrado == null)
+            var propietarioEncontrado = _appContext.Propietarios.FirstOrDefault(c => c.Id == idPersona);
+            if (propietarioEncontrado == null)
                 return;
-            _appContext.Propietarios.Remove(clienteEncontrado);
+            _appContext.Propietarios.Remove(propietarioEncontrado);
             _appContext.SaveChanges();
-            
-
-
         }
-        Propietario IRepositorioPropietario.GetPropietaio(int idPropietario)
+        
+        Propietario IRepositorioPropietario.GetPropietaio(int idPersona)
         {
-            return _appContext.Propietarios.FirtOrDefault(c => c.Id == idPropietario)
-
+            return _appContext.Propietarios.FirstOrDefault(c => c.Id == idPersona);
         }
-        IEnumerable<Propietario> IRepositorioPropietarios.GetAllPropietarios()
+        IEnumerable<Propietario> IRepositorioPropietario.GetAllPropietarios()
         {
             return _appContext.Propietarios;
         }
