@@ -10,8 +10,8 @@ namespace VisitaDomiciliaria.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            AddPropietario();
-        }
+            //AddPropietario();
+        }   Buscarpropietario(1);
 
         private static void AddPropietario()
         {
@@ -27,4 +27,12 @@ namespace VisitaDomiciliaria.App.Consola
             _repoPropietario.AddPropietario(propietario);
         }
     }
+
+    private static void Buscarpropietario(int idPropietario)
+    {
+        var propietario = _repoPropietario.GetPropietaio(idPropietario);
+        Console.WriteLine(propietario.nombres);
+    }
+
+
 }
